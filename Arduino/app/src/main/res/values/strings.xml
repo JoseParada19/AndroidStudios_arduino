@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+    <string name="texto_Humedad1">0= Hay Humedad</string>
+    <string name="texto_humedad2">1023= Falta humedad</string>
+
+    <string name="texto_HumedadTitulo">Valores de Humedad:</string>
+    <string name="valorLuz">Valor de la Luz</string>
+
+
+
+
+    <string name="texto_Luz1">300---60 --> Hay mucha luz</string>
+    <string name="texto_luz3">60---20 --> Luz Ideal</string>
+    <string name="texto_luz4">20---0 --> Muy poca o cero luz</string>
+
+    <string name="texto_luzTitulo">Valores de Luz:</string>
+    <string name="valorHumedad">Valor de la Humedad</string>
+
+
+
+
+</resources>
